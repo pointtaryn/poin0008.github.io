@@ -145,13 +145,12 @@ a {
   padding-bottom: 150px; }
 
 .portfolio-section {
-  color: white;
-  background: url("../img/1.jpg") no-repeat center center scroll;
-  background-color: black;
+  color: black;
+  background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
+  background-size: cover;}
 
 #map {
   width: 100%;
